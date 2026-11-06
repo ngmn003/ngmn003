@@ -1,12 +1,12 @@
-## Hi,👋   I'm  Mohit...
+## Hi there👋...
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4D7CFE&center=true&vCenter=true&width=800&lines=a+Nearly+Full-Stack+Developer;a+Python+Engineer;Building+Advanced+Scalable+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4D7CFE&center=true&vCenter=true&width=800&lines=I'm+MOHIT;a+Nearly+Full-Stack+Developer;a+Python+Engineer;">
 </p>
 
 > 🔭 I’m currently working on Full-Stack Development and Cybersecurity stuff   
 > 🌱 Learning various current tech stuff that interest me    
-> 📫 Hobbies: Riding, Photography, Movies, Music    
+> 📫 Hobbies: Riding, Photography, Movies, Music & more    
 > ⚡ Fun fact: A group of Owls is called a Parliament. 
 
 
@@ -31,21 +31,14 @@
 > Deploying chaos,   
 > Ready...
 
-<p align="center">
-<img src="https://img.shields.io/badge/Maintained-Yes-green" />
-<img src="https://img.shields.io/badge/Followers-3-blue" />
-<img src="https://img.shields.io/badge/Education-B.E.%2BCSIT-orange" />
-</p>
+
 
 # 🚀 Key Projects
 
 | Project | Description |
 |--------|-------------|
+| Connectly | Real-Time messaging applicationproviding one-to-one private and group chats and history using WebSockets and PostgreSQL |
 | SecuraPass | multipurpose toolkit providing various securitiy solutions |
-| DIMS | Decentralized ID management using Solidity + Next.js |
-| UKBiz Network | Directory hosting 1000+ verified businesses |
-| AI Moderation | AWS Rekognition-powered moderation system |
-
 ---
 
 
@@ -91,5 +84,3 @@
 <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
 </a>
 </p>
-
-[![](https://komarev.com/ghpvc/?username=ngmohit2003&icon=6&color=0)](https://visitcount.itsvg.in)
