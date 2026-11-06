@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,mysql,postgres,supabase,fastapi,flask,django,sqlite,react,css,js,tailwind,githubactions,nginx,docker,kubernetes,aws,git,github,redis,kali,linux,bash,notion,obsidian,arch,debian,vercel,npm,powershell,pnpm,figma,mui,netlify,vscode," /> 
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,supabase,neon,fastapi,flask,django,sqlite,react,css,js,tailwind,docker,kubernetes,aws,git,github,redis,kali,linux,bash,notion,obsidian,debian,vercel,npm,powershell,vscode," /> 
 
 ---
 
